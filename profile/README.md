@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/sulfurLabs/.github/main/profile/sulfurLabs.png" alt="sulfurbanner" width="100%">
 </p>
 
-## Welcome to sulfurLabs 👋
+## > Welcome to sulfurLabs 👋
 sulfurLabs builds software for users who love to customize :D
 
 ## s4
