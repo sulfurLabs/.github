@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sulfurLabs/.github/main/profile/banner.png" alt="sulfurbanner" width="100%">
+  <img src="https://raw.githubusercontent.com/sulfurLabs/.github/main/profile/sulfurLabs.png" alt="sulfurbanner" width="100%">
 </p>
 
 ## Welcome to sulfurLabs 👋
